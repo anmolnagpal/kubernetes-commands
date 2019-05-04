@@ -3,7 +3,7 @@ What is Kubernetes?
 
 ## ViewingResource Information
 #### Nodes
-```bash
+```yaml
 $ kubectl get no
 $ kubectl get no -o wide
 $ kubectl describe no
