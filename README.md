@@ -11,7 +11,7 @@ What is Kubernetes?
 > kubectl get componentstatuses
 ```
 
-## ViewingResource Information
+## Viewing Resource Information
 
 #### Nodes
 ```bash
